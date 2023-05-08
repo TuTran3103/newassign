@@ -1,0 +1,49 @@
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    text-decoration: none;
+    display: inline;
+    margin-right: 100px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 50px;
+    width: 600px;
+  }
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: cursive;
+    color: blueviolet;
+  }
+ 
+  h2 {
+    font-family: fantasy;
+    font-size: 30px;
+    color: green;
+  }
+  
+  p {
+    font-size: 14px;
+    color:black;
+  }
+  body {
+    background-image: url(image_processing20211205-20418-1pf3ujo.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+}
